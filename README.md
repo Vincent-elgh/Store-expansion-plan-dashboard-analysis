@@ -1,4 +1,5 @@
-#Store Expansion Plan Analysis with Power BI
+# Store Expansion Plan Analysis with Power BI
+
 ## Overview
 This project utilizes Power BI to analyze and support the expansion plan of "24 Seven", a 24-hour convenience store chain in Canada. We created an interactive dashboard to identify the optimal location for a new store, analyze sales trends, and forecast sales demand.
 
